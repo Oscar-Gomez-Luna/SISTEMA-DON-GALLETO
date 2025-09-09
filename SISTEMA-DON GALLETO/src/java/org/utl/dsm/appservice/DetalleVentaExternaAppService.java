@@ -12,7 +12,7 @@ import org.utl.dsm.viewmodel.DetalleVentaViewModel;
 
 public class DetalleVentaExternaAppService {
     //REMPLAZA LOS VALORES
-    private final String url = "http://10.16.21.34:8080/DON_GALLETO_Ventas/api/detalleVenta/getAll?activo=true";
+    private final String url = "http://DIRECCION IP:HOST/DON_GALLETO_Ventas/api/detalleVenta/getAll?activo=true";
     
     public List<DetalleVentaViewModel> getAll() {
         List<DetalleVentaViewModel> detalleVentasExternas = new ArrayList<>();
