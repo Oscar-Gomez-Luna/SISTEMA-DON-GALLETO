@@ -13,40 +13,37 @@ En cuanto a las areas encargadas por estudiante son:
 
 # [Oscar Gomez](https://github.com/nombre-de-usuario)
   * **En el apartado de ventas:**
-    * CRUD de proveedores.
-    * CRUD de usuarios (empleados).
+    * Agregar a un carrito temporal.
+    * Eliminar galleta del carrito.
+    * Realizar venta del carrito.
+    * Total visible.
 
 # [Carlos Lopez](https://github.com/carlosraul9)
   * **En el apartado de compras:**
-    * *Seguridad de inicio de sesión:*
-      * Captcha.
+    * Agregar un proveedor temporal.
+    * Ver todas las compras realizadas y su estatus.
+    * Ver detalles de cada compra.
 
 # [Diego Landin](https://github.com/IDGS-901-22002343)
   * **En el apartado de ventas:**
-    * CRUD de usuarios (clientes).
-    * *CRUD de recetas:*
+    * Registro de ticket.
+    * Generación de ticket.
+    * Merma de galletas.
 
-# [Yael Lopez](https://github.com/IDGS-901-22001379)
+# [Arath Tavera](https://github.com/nombre-de-usuario)
   * **Producción:**
-    * Empaquetar galletas dependiendo su presentación.
-    * Alertas de preparación proximas a terminarse.
-    * Orden de producción que crea su lote.
+    * Ver receta.
     * Merma de galletas.
     * Merma de insumos.
+    * Produir galletas con un toque.
 
 # [Angel Ascencio](https://github.com/Angel-Ascencio)
   * **En el apartado de compras:**
-      * Alertas de caducidad y existencia.
-      * Registrar nuevos insumos.
-      * Pagos pendientes con proveedores.
-      * Orden de compra de insumos a proveedores como una función de carrito de compras.
-      * Insumos comprados con fechas de caducidad.
-      * Merma de insumos.
+      * Agregar a un carrito temporal.
+      * Eliminar insumo del carrito.
+      * Realizar compra del carrito.
+      * Confirmar recepccion de insumos y agregarlos al stock.
   * **Insumos:**
-      * Información de cuantas galletas se necesitan.
-      * Calculos de insumos a ocupar en relación a la receta.
-      * Al terminar una orden cambiar estatus a terminada.
-      * Si una orden pasa de su fecha de entrega se cambia su estatus y se envia al stock total.
-      * Si se puede cubrir el stock total lo marca como terminado.
-      * Merma de galletas.
+      * GetAll de todos los insumos.
+      * Alertas de a punto de acabarse y resurtirse insumos.
       * Merma de insumos.
