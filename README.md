@@ -21,7 +21,7 @@ En cuanto a las areas encargadas por estudiante son:
     * *Seguridad de inicio de sesión:*
       * Captcha.
 
-# [Diego Landin](https://github.com/nombre-de-usuario)
+# [Diego Landin](https://github.com/IDGS-901-22002343)
   * **En el apartado de ventas:**
     * CRUD de usuarios (clientes).
     * *CRUD de recetas:*
