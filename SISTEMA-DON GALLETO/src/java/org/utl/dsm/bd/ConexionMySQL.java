@@ -9,8 +9,8 @@ public class ConexionMySQL {
     //REVISAR EL HOST Y EL PUERTO SI ES NECESARIO
     String url = "jdbc:mysql://localhost:3306/DonGalleto";
     //AGREGA TUS CREDENCIALES
-    String user = "root";
-    String password = "Patotas117";
+    String user = "USUARIO";
+    String password = "CONTRASEÑA";
 
     public Connection abrirConexion() throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.cj.jdbc.Driver");
