@@ -11,7 +11,7 @@ Este proyecto se desarrollo con:
 
 En cuanto a las areas encargadas por estudiante son:
 
-# [Oscar Gomez](https://github.com/nombre-de-usuario)
+# [Oscar Gomez](https://github.com/Oscar-Gomez-Luna)
   * **En el apartado de ventas:**
     * Agregar a un carrito temporal.
     * Eliminar galleta del carrito.
