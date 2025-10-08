@@ -18,7 +18,7 @@ En cuanto a las areas encargadas por estudiante son:
     * Realizar venta del carrito.
     * Total visible.
 
-# [Carlos Lopez](https://github.com/carlosraul9)
+# [Carlos Lopez](https://github.com/IDGS-901-22002224)
   * **En el apartado de compras:**
     * Agregar un proveedor temporal.
     * Ver todas las compras realizadas y su estatus.
